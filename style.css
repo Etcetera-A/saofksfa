@@ -1,0 +1,96 @@
+body {
+    background-image:url(../Index.html/img/solar.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 4000px;
+    margin: 0px;
+    padding: 0px;
+}
+    .container{
+    width:100%;
+    height:16%;
+    border:2px solid rgb(11, 25, 44);
+    margin:auto;
+    background-color: rgb(11, 25, 44);
+    text-align: center;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   font-size: 30px;
+   color: white;
+}
+h1 {
+    margin-top: 150px;
+}
+p {
+    font-size: 20px ;
+    text-decoration: underline;
+}
+.mars {
+    margin-top: 20px;
+    width: 600px;
+    height: 500px;
+    background-image: url(../Index.html/img/mars.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    float: left;
+}
+.kotak p {
+    padding: 20px;
+    background-color: rgba(0, 0, 0, 0.414);
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration: underline;
+}
+
+.clear {
+    clear: left;
+    color: white;
+    font-weight: 500;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.clear{
+    text-align: center;
+    width: 800px;
+    margin:25%;
+    background-color: white;
+    color: black;
+    line-height: 45px;
+}
+.ciri-ciri {
+    padding: 5px;
+    text-decoration: none;
+    font-weight: 900;
+    border: 2px solid rgb(11, 25, 44);
+}
+.kanan {
+    float: right;
+    width: 700px;
+    height: 400px;
+    background-image: url(../Index.html/img/bumimars.png);
+    background-position:center;
+    background-repeat: no-repeat;
+    background-size:100%;
+}
+.gravity {
+    padding: 5px;
+    background-color: rgba(255, 166, 0, 0.69);
+    color: white;
+}
+.gravitasi2 {
+    text-decoration: none;
+    font-weight: 500;
+    text-shadow: 10cm;
+}
+.kontener {
+    clear: right;
+    padding: 10px;
+    background-color: rgba(255, 255, 255, 0.455);
+    color: black;
+    font-weight: 500;
+}
+.komposisi {
+    font-weight: 600;
+    font-size: 20px;
+}
